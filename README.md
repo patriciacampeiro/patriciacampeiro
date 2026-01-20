@@ -1,5 +1,5 @@
 ## Olá! 
-### Bem vindo ao meu GitHub 👋
+### Bem-vindo(a) ao meu GitHub 👋
 
 - Estudante de Engenharia de Software.
 <div align="center">
