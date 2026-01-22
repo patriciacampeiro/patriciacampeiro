@@ -1,6 +1,8 @@
-## Olá! 
-### Bem-vindo(a) ao meu GitHub 👋
+## Bem-vindo(a) ao meu GitHub 👋
 
+Olá! Me chamo Patrícia e atualmente estou cursando o 9° semestre do bacharelado em Engenharia de Software.
+
+Possuo interesse na área de dados e estou sempre em busca de aprimorar meus conhecimentos :)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patriciacampeiro&theme=radical&rank_icon=github&include_all_commits=TRUE" />
 </a>
